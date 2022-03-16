@@ -91,22 +91,5 @@ public class Runner
         FunWith2DArrays.fourCorners(strArr4);
         String[][] strArr5 = {{"time"}};
         FunWith2DArrays.fourCorners(strArr5);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
